@@ -11,5 +11,5 @@ shuaiziImage 我的图床
 
 #### 使用说明
 
-1.  地址1：http://shuaizinanyihao.gitee.io/shuaiziimage/blogImg/文件名称
-2.  地址2：https://gitee.com/shuaizinanyihao/shuaiziImage/raw/master/blogImg/文件名称
+1.  地址1：http://shuaizinanyihao.gitee.io/shuaizi-image/blogImg/文件名称(码云服务重新部署-可以访问)
+2.  地址2：https://gitee.com/shuaizinanyihao/shuaizi-image/raw/master/blogImg/文件名称(picgo上传完成-可以访问)
